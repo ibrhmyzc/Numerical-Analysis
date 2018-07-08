@@ -1,0 +1,14 @@
+Hocam hw2de zaten gauss eliminationi yazmistim. Onun uzerinden bir kac ufak edit ve asagidaki internet sitesinden augmented matrixi olusturmak icin 
+ufak bir kod parcasi aldim
+http://www.bragitoff.com/2015/09/c-program-for-polynomial-fit-least-squares/
+
+
+en bastaki 4 tane 2-3 satirlik for dongusu.Internette arastirirken gordum ben kolay geldi ve odevin sil kismini zaten kendim onceden yazdigim icin kestirmeden bu parcayi kullanmak istedim.
+
+Diger partlari c++ yazmistim ama bunu hw2'de java kullandigim icin donusturmek istemedim. Fazla zamanim da yoktu. Zahmet olacak ama kusura bakmayin lutfen. 
+
+usage:
+
+javac Main.java
+java Main
+

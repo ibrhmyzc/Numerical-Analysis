@@ -1,0 +1,5 @@
+Son anda farkettim gauss elimination with scaled partial pivoting yerine backward substitution ile kodlamisim. Test ederken ona gore matrixler kullanirsaniz sevinirim. 
+
+Deneyin dediginiz orneklerin hepsi Gauss elimination ile dogru calisiyor. 
+
+Yalniz jacobi yontemi ile 6.2-1c'yi denedigimde sonuca ulasamadim. 10 iterasyon sonucu criterian saglanmazsa loopu durduruyorum. Ekrana en son iterasyondaki cevapla birlikte durduruldugu yazip programi sonlandiriyorum.

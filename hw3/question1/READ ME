@@ -1,0 +1,4 @@
+c+ 2011 standartlarinda derleyen bir makefile hazirladim.
+Dikkat edilmesi gereken bir husus var. 30x30luk matrixte her bir eleman
+arasi bir bosluk var. Haliyle terminal satirina sigmayip tasma yapabiliyor. En basta terminal satirinin
+genisligini buyutup calistirirsaniz yanlis sonuc gormezsiniz.
